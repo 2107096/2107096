@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Peppi / @2107096
-- 👀 I’m interested in everything basically, except for _stuff_ that's not interesting
-- 🌱 I’m currently learning how to do this, for example
-- 💞️ I’m not looking to collaborate atm <3 
+- 👋 Hi, I’m Peppi/Michaela/Mikki @2107096
+- 👀 I’m interested in everything basically, except for stuff that's not interesting
+- 🌱 I’m currently learning how to do this
+- 💞️ I’m not looking to collaborate atm 🤍
+- 😕 I have 0 idea of what i'm doing
 - 📫 How to reach me: 2107096@laurea.fi / whatsapp: 0504006267
 
 <!---
